@@ -6,7 +6,7 @@ Easy on the eye Vim themes for long hacking sessions.
 What is This?
 -------------
 
-This is my vim colour scheme for gvim and 16-colour terminals. Well,
+This is my Vim colour scheme for gvim and 16-colour terminals. Well,
 actually it is two themes.  Both are designed to be minimal,
 non-intrusive and easy on the eye. I believe that a common mistake to
 bombard the user with too many different colours, thus inducing a
@@ -23,9 +23,9 @@ The Colour Schemes
 
 ###GVim:
 
-The gvim theme is designed for indoor use. Since we have 24-bit
-colour at our disposal, the colours for the GUI are not limited and I
-am able to give you rich autumn colours.
+The gvim theme is designed for indoor use (and so has a dark backround).
+In gvim we have 24-bit colour at our disposal, so I am able to give you
+unoffensive autumn colours.
 
 ![Gvim colour scheme](https://raw.github.com/vext01/theunixzoo-vim-colorscheme/master/gvim.png)
   
@@ -36,7 +36,8 @@ both indoors and out. By this I mean it will not suffer from contrast
 issues if you are using xterm with:
 
 * Black text on a white background (ie. default xterm settings).
-* White (or light gray) text on a black background.
+* White (or light gray) text on a black background (when outside in
+  bright sunlight).
  
 If you want the latter put this in your ~/.Xdefaults:
 
