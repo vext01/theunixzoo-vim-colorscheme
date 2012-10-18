@@ -23,7 +23,7 @@ The Colour Schemes
 
 ###GVim:
 
-The gvim theme is designed for indoor use (and so has a dark backround).
+The gvim theme is designed for indoor use (and so has a dark background).
 In gvim we have 24-bit colour at our disposal, so I am able to give you
 inoffensive autumn colours.
 
