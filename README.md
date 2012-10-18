@@ -25,7 +25,7 @@ The Colour Schemes
 
 The gvim theme is designed for indoor use (and so has a dark backround).
 In gvim we have 24-bit colour at our disposal, so I am able to give you
-unoffensive autumn colours.
+inoffensive autumn colours.
 
 ![Gvim colour scheme](https://raw.github.com/vext01/theunixzoo-vim-colorscheme/master/gvim.png)
   
