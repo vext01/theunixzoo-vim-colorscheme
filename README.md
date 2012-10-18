@@ -1,7 +1,7 @@
 TheUnixZoo: Vim Colour Scheme
 =============================
 
-Easy on the eye Vim theme for long hacking sessions.
+Easy on the eye Vim themes for long hacking sessions.
 
 What is This?
 -------------
