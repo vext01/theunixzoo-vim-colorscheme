@@ -56,4 +56,4 @@ Donate
 I offer you this for free under an ISC license! Free! Free! Free!
 
 If you like this, please help a broke PhD student and donate a pint of
-English ale. Thanks.
+English ale. Donate via PayPal to  vext01 (at) gmail (dot) com. Thanks.
