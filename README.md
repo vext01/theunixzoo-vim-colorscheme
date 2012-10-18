@@ -35,9 +35,9 @@ The cterm (16-bit color terminal) theme was designed so as to work
 both indoors and out. By this I mean it will not suffer from contrast
 issues if you are using xterm with:
 
-* Black text on a white background (ie. default xterm settings).
-* White (or light gray) text on a black background (when outside in
-  bright sunlight).
+* Black text on a white background. I use this when I am outside in
+  bright sunlight.
+* White (or light gray) text on a black background.
  
 If you want the latter put this in your ~/.Xdefaults:
 
