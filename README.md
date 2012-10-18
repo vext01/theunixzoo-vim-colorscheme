@@ -26,6 +26,8 @@ The Colour Schemes
 The gvim theme is designed for indoor use. Since we have 24-bit
 colour at our disposal, the colours for the GUI are not limited and I
 am able to give you rich autumn colours.
+
+![Gvim colour scheme](gvim.png)
   
 ###16-Colour Terminal:
 
@@ -45,6 +47,8 @@ xterm*foreground: gray60
   
 The cterm theme will work on a standard PC terminal just fine (sometimes
 I don't start X). I have not tried it on a Sun terminal or anything exotic.
+
+![Terminal colour scheme](cterm.png)
   
 Donate
 ------
