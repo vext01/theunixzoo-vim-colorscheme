@@ -38,7 +38,7 @@ hi Error	guifg=fg guibg=gray30 ctermbg=None ctermfg=None cterm=None
 hi SpecialKey	guifg=fg guibg=bg ctermbg=None ctermfg=None cterm=None
 hi Directory	guifg=fg guibg=bg gui=bold ctermbg=None ctermfg=None cterm=None
 hi ModeMsg	guifg=fg guibg=bg gui=bold ctermbg=None ctermfg=None cterm=None
-hi CursorLine	guifg=fg guibg=gray30 ctermbg=None ctermfg=None cterm=None
+hi CursorLine	guibg=bg ctermbg=None ctermfg=None cterm=None
 hi Pmenu	guifg=seagreen guibg=black ctermbg=gray ctermfg=black cterm=None
 hi PmenuSel	guifg=skyblue guibg=gray30 ctermbg=yellow ctermfg=black cterm=None
 hi Question	guifg=seagreen guibg=bg ctermbg=None ctermfg=None cterm=None
@@ -65,7 +65,7 @@ hi Comment      guifg=seagreen guibg=bg ctermfg=red ctermbg=None cterm=None
 hi Constant     guifg=fg guibg=bg ctermfg=None ctermbg=None cterm=None
 hi Statement    guifg=#f5593f guibg=bg gui=none ctermfg=None ctermbg=None cterm=bold
 hi PreProc      guifg=fg gui=bold guibg=bg ctermfg=None ctermbg=None cterm=bold
-hi Type         guifg=fg guibg=bg gui=italic ctermfg=None ctermbg=None cterm=None
+hi Type         guifg=fg guibg=bg gui=none ctermfg=None ctermbg=None cterm=None
 hi Special     	gui=None guifg=#deb032 guibg=bg ctermfg=None ctermbg=None cterm=None
 hi Todo         guibg=#330088 guifg=seagreen ctermfg=black ctermbg=cyan cterm=None
 hi cTodo        guibg=#330088 guifg=seagreen ctermfg=black ctermbg=cyan cterm=None
