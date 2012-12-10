@@ -31,7 +31,7 @@ hi Search       guibg=fg guifg=black ctermbg=yellow ctermfg=blue cterm=None
 hi IncSearch	guibg=bg guifg=#ded032 ctermbg=blue ctermfg=yellow cterm=None
 hi StatusLine   guibg=black guifg=gray80 ctermbg=gray ctermfg=black cterm=None
 hi StatusLineNC guibg=black guifg=gray20 ctermbg=gray ctermfg=black cterm=None
-hi Visual       guifg=lightblue guibg=#001146 gui=none ctermbg=None ctermfg=None cterm=inverse
+hi Visual       guifg=lightblue guibg=#001146 gui=None ctermbg=None ctermfg=None cterm=inverse
 hi ErrorMsg     guifg=bg guibg=fg ctermbg=None ctermfg=None cterm=None
 hi WarningMsg   guifg=bg guibg=fg ctermbg=None ctermfg=None cterm=None
 hi Error	guifg=fg guibg=gray30 ctermbg=red ctermfg=None cterm=None
@@ -46,12 +46,12 @@ hi MoreMsg	guifg=seagreen guibg=bg ctermbg=None ctermfg=None cterm=None
 hi DiffDelete	guifg=gray20 guibg=gray5 ctermbg=None ctermfg=None cterm=None
 hi DiffChange	guifg=fg guibg=gray30 ctermbg=None ctermfg=None cterm=None
 hi DiffAdd	guifg=fg guibg=bg ctermbg=None ctermfg=None cterm=None
-hi DiffText	guifg=black guibg=seagreen gui=none ctermbg=None ctermfg=None cterm=None
+hi DiffText	guifg=black guibg=seagreen gui=None ctermbg=None ctermfg=None cterm=None
 hi FoldColumn	guifg=fg guibg=bg ctermbg=None ctermfg=None cterm=None
 hi Title	guifg=fg guibg=bg gui=bold ctermfg=None ctermbg=None cterm=bold
-hi VimHiGroup   guifg=fg guibg=bg gui=none ctermbg=None ctermfg=None cterm=None
-hi VimHiLink    guifg=fg guibg=bg gui=none ctermbg=None ctermfg=none cterm=None
-hi VimGroup     guifg=fg guibg=bg gui=none ctermbg=None ctermfg=None cterm=None
+hi VimHiGroup   guifg=fg guibg=bg gui=None ctermbg=None ctermfg=None cterm=None
+hi VimHiLink    guifg=fg guibg=bg gui=None ctermbg=None ctermfg=None cterm=None
+hi VimGroup     guifg=fg guibg=bg gui=None ctermbg=None ctermfg=None cterm=None
 hi Underlined	guifg=lightblue guibg=bg gui=bold ctermbg=None ctermfg=None cterm=underline
 hi SpellBad	guibg=bg gui=undercurl guisp=red ctermbg=red ctermfg=yellow term=None
 hi SpellCap	guibg=bg gui=undercurl guisp=red ctermbg=red ctermfg=yellow term=None
@@ -62,8 +62,9 @@ hi SpellLocal	guibg=bg gui=undercurl guisp=red ctermbg=red ctermfg=yellow term=N
 hi Identifier	guifg=fg guibg=bg ctermfg=None ctermbg=None cterm=None
 hi Function	guifg=fg guibg=bg ctermfg=None ctermbg=None cterm=bold
 hi Comment      guifg=seagreen guibg=bg ctermfg=red ctermbg=None cterm=None
+hi javaCOmmentTitle guifg=seagreen guibg=bg ctermfg=red ctermbg=None cterm=None
 hi Constant     guifg=fg guibg=bg ctermfg=None ctermbg=None cterm=None
-hi Statement    guifg=#f5593f guibg=bg gui=none ctermfg=None ctermbg=None cterm=bold
+hi Statement    guifg=#f5593f guibg=bg gui=None ctermfg=None ctermbg=None cterm=bold
 hi PreProc      guifg=fg gui=bold guibg=bg ctermfg=None ctermbg=None cterm=bold
 hi Type         guifg=fg guibg=bg gui=None ctermfg=None ctermbg=None cterm=None
 hi Special     	gui=None guifg=#deb032 guibg=bg ctermfg=None ctermbg=None cterm=None
@@ -73,4 +74,4 @@ hi ColorColumn	guibg=gray20 guifg=fg ctermfg=magenta ctermbg=None cterm=None
 hi cPreCondit   guifg=#cb4b16 ctermfg=None ctermbg=None cterm=None
 
 " File Manager
-hi netrwMarkFile	guifg=fg guibg=seagreen ctermfg=none ctermbg=none cterm=inverse
+hi netrwMarkFile	guifg=fg guibg=seagreen ctermfg=None ctermbg=None cterm=inverse
