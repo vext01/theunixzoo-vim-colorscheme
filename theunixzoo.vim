@@ -57,6 +57,7 @@ hi SpellBad	guibg=bg gui=undercurl guisp=red ctermbg=red ctermfg=yellow term=Non
 hi SpellCap	guibg=bg gui=undercurl guisp=red ctermbg=red ctermfg=yellow term=None
 hi SpellRare	guibg=bg gui=undercurl guisp=red ctermbg=red ctermfg=yellow term=None
 hi SpellLocal	guibg=bg gui=undercurl guisp=red ctermbg=red ctermfg=yellow term=None
+hi HelpStar	guibg=bg guifg=fg gui=None ctermbg=None ctermfg=None cterm=None
 
 " Language Features
 hi Identifier	guifg=fg guibg=bg ctermfg=None ctermbg=None cterm=None
