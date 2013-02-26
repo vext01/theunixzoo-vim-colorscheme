@@ -73,6 +73,9 @@ hi Todo         guibg=#330088 guifg=seagreen ctermfg=black ctermbg=cyan cterm=No
 hi cTodo        guibg=#330088 guifg=seagreen ctermfg=black ctermbg=cyan cterm=None
 hi ColorColumn	guibg=gray20 guifg=fg ctermfg=magenta ctermbg=None cterm=None
 hi cPreCondit   guifg=#cb4b16 ctermfg=None ctermbg=None cterm=None
+hi texMathZoneW	guibg=bg guifg=fg ctermfg=None ctermbg=None cterm=None
+hi texMathOper	guibg=bg guifg=fg ctermfg=None ctermbg=None cterm=None
+hi Delimiter	guifg=#f5593f guibg=bg gui=None ctermfg=None ctermbg=None cterm=bold
 
 " File Manager
 hi netrwMarkFile	guifg=fg guibg=seagreen ctermfg=None ctermbg=None cterm=inverse
