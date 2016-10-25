@@ -27,8 +27,8 @@ hi VertSplit    guibg=#46464e guifg=grey60 ctermbg=gray ctermfg=None cterm=None
 hi Folded       guibg=fg guifg=bg ctermbg=None ctermfg=None cterm=None
 hi LineNr       guifg=grey30 guibg=black ctermbg=None ctermfg=None cterm=None
 hi NonText      guifg=fg guibg=#19191e ctermbg=None ctermfg=None cterm=None
-hi Search       guibg=fg guifg=black ctermbg=yellow ctermfg=blue cterm=None
-hi IncSearch	guibg=bg guifg=#ded032 ctermbg=blue ctermfg=yellow cterm=None
+hi Search       guibg=fg guifg=black ctermbg=blue ctermfg=gray cterm=None
+hi IncSearch	guibg=bg guifg=#ded032 ctermbg=blue ctermfg=gray cterm=None
 hi StatusLine   guibg=black guifg=gray80 ctermbg=gray ctermfg=black cterm=None
 hi StatusLineNC guibg=black guifg=gray20 ctermbg=gray ctermfg=black cterm=None
 hi Visual       guifg=lightblue guibg=#001146 gui=None ctermbg=None ctermfg=None cterm=inverse
